@@ -1,0 +1,9 @@
+.personIcon{
+    flex: 1 1 auto;
+width: 30%;
+    margin-left: auto;
+}
+
+.loginIcon img{
+    border-radius: 120px;
+}

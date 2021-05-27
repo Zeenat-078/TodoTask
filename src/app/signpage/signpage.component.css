@@ -1,0 +1,11 @@
+.signDiv{
+    background-color:rgb(123, 161, 231);
+    margin: 150px 500px 50px;
+    display: flex;
+    justify-content: center;
+    height: 350px;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(6, 1, 43);
+}
+
